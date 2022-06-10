@@ -1,6 +1,6 @@
 <h2> Hi, I'm Jessica Santos! <img src="https://media.giphy.com/media/hu9xj9UtxpoY3oytsh/giphy.gif" width="70"><h2>
-  
-<p style="font-size: 12px">Teste<p>
+
+<p style="font-size: 15px;">I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.<p>
   
 <div align="center" style="padding: 0px">
   <img width="665px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jessicaarq&theme=radical"/> 
